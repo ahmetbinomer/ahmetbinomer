@@ -1,24 +1,22 @@
 # Hi, I'm Ahmet Akay 👋
 
-**Computer Physics Student @ AGH University of Science and Technology**[cite: 2]  
-Focused on **Analytics Engineering**, **Data Modeling**, and **Technical Program Delivery**.
+**Computer Physics Student @ AGH University of Krakow**  
+Focused on **Data Engineering**, **Scientific Computing**, and **AI/ML Data Workflows**.
+🚀 What I Do
+Data Processing & Pipelines: Building Python automation scripts, data handling routines, and structured processing pipelines.
 
----
+Scientific Computing & Modeling: Applying computational physics, numerical methods, and statistical analysis to complex datasets using Python and PyROOT.
 
-### 🚀 What I Do
-- **Data & Analytics:** Designing structured data pipelines, analytical models, and SQL optimization[cite: 1, 2].
-- **Technical Delivery:** Bridging the gap between software development and project delivery using Agile methodologies[cite: 1, 2].
-- **Computational Problem Solving:** Applying applied mathematics and scientific computing techniques to engineering problems[cite: 2].
+Software Engineering: Writing maintainable software, data validation checks, and robust unit/UI tests with a focus on code quality.
 
----
+🛠 Tech & Tools
+Languages: Python (NumPy, Pandas, Matplotlib), SQL, Swift, Dart
 
-### 🛠 Tech & Tools
-- **Languages & Frameworks:** Python, SQL, C#, Dart (Flutter), Swift[cite: 2]
-- **Data & Analytics:** PyROOT, Relational Databases (RDBMS), Data Modeling[cite: 2]
-- **Delivery & DevOps:** Git, Agile/Scrum, Docker, CI/CD concepts[cite: 1, 2]
+Data & Scientific Tools: PyROOT, Data Validation & Cleaning, Relational Databases (RDBMS), Statistical Modeling
 
----
+Engineering & DevOps: Git, GitHub, Docker, RESTful APIs, JSON Parsing, Linux/Bash
 
-### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/ahmetakay](https://www.linkedin.com/in/ahmetakay/)[cite: 1, 2]
-- **Email:** ahmetakaybusiness@gmail.com[cite: 1, 2]
+📬 Connect with Me
+LinkedIn: linkedin.com/in/ahmetakay
+
+Email: ahmetakaybusiness@gmail.com
